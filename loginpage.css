@@ -1,0 +1,31 @@
+.imgbody3{
+    background-image: url('background1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+	
+}
+.h2{
+    color:rgb(2, 25, 25);
+    padding: 20px;
+    margin-top: 450px;
+    margin-left: 550px;
+    font-size: 22px;
+
+	background-image: url('background1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+	
+}
+.logo{
+    width: 20px;
+    width: 120px;
+    margin-left: 725px;
+    margin-top: -120px;
+    position: fixed;
+	border-bottom-left-radius: 50px;
+	border-top-left-radius: 50px;
+	border-top-right-radius: 50px;
+	border-bottom-right-radius: 50px;
+}
